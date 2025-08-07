@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d979bd14-e012-4f44-853e-806a57ead4a2" name="Changes" comment="" />
+    <list default="true" id="22932a40-e3b9-4b80-9776-59e0cf2b1677" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +17,7 @@
       </list>
     </option>
   </component>
-  <component name="MarkdownSettingsMigration">
-    <option name="stateVersion" value="1" />
-  </component>
-  <component name="ProjectId" id="2OF42r0uFwRiBl3mghjUW9EtizA" />
+  <component name="ProjectId" id="30Dzh7mtanesf1g3qx1tYmQ1GWS" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -29,96 +26,22 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/YouTube Project/Electricity-Billing-System-master/Electricity-Billing-System-master",
-    "project.structure.last.edited": "Libraries",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/User/OneDrive/Desktop",
+    "onboarding.tips.debug.path": "C:/Users/User/OneDrive/Desktop/coding after btech/java/Java project/src/Main.java",
+    "project.structure.last.edited": "Artifacts",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Reception">
-    <configuration name="CheckOut" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.CheckOut" />
-      <module name="Hotel Management System" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hotel.Management.System.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.Reception" />
-      <module name="Hotel Management System" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hotel.Management.System.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Splash" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.Splash" />
-      <module name="Hotel Management System" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hotel.Management.System.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UpdateRoom (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.UpdateRoom" />
-      <module name="Hotel Management System" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hotel.Management.System.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="UpdateRoom" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Hotel.Management.System.UpdateRoom" />
-      <module name="Hotel Management System" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Hotel.Management.System.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.Reception" />
-        <item itemvalue="Application.Splash" />
-        <item itemvalue="Application.CheckOut" />
-        <item itemvalue="Application.UpdateRoom (1)" />
-        <item itemvalue="Application.UpdateRoom" />
-      </list>
-    </recent_temporary>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="d979bd14-e012-4f44-853e-806a57ead4a2" name="Changes" comment="" />
-      <created>1681142793061</created>
+      <changelist id="22932a40-e3b9-4b80-9776-59e0cf2b1677" name="Changes" comment="" />
+      <created>1753177050318</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1681142793061</updated>
+      <updated>1753177050318</updated>
     </task>
     <servers />
   </component>
